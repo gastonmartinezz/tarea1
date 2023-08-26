@@ -1,0 +1,3 @@
+7305a11c11b9a129879b027d7822ec029727588f  src/fecha.cpp
+f1d457fa20b2ba1d8231d21d52125d5a179fbcea  src/evento.cpp
+afbb8fd013ca168b80efdce6c49ea1119425c32c  src/agenda.cpp
